@@ -1,3 +1,3 @@
-# vue-router-demo
+# quickask-vue-router-demo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-1e6zzo)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/quickask-vue-router-demo)
